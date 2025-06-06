@@ -106,7 +106,7 @@ pomodoro-timer/
 如果你对项目有建议或想提交代码，可以：
 
 * 提交 Issue / PR 到本仓库
-* 邮件联系：[your@email.com](mailto:your@email.com)
+* 邮件联系：[2983809073@qq.com](mailto:your@email.com)
 * 也欢迎将本项目用于课程教学、实践训练、组件改造等应用场景
 
 ---
@@ -114,6 +114,7 @@ pomodoro-timer/
 ## 📌 免责声明
 
 本项目为学习与实践用途，不包含后端存储或身份验证。所有数据均保存在浏览器本地，建议用户自行扩展后端功能以适应真实部署环境。
-https://upload-bbs.miyoushe.com/upload/2025/05/20/296292055/f796c6b4fd20499ac4b0add8beb2a9cb_7000140118988470381.gif
+
+![Uploading f796c6b4fd20499ac4b0add8beb2a9cb_7000140118988470381.gif…]()
 
 
